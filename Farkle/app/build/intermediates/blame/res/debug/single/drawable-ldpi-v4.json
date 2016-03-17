@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Lexar/Farkle/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Volumes/Lexar/Farkle/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Sara/Desktop/Farkle/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/Sara/Desktop/Farkle/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]
